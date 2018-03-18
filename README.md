@@ -1,5 +1,9 @@
 # docker-mkdocs
 
+[![Build Automated](https://img.shields.io/docker/automated/stschulte/docker-mkdocs.svg)](https://hub.docker.com/r/stschulte/docker-mkdocs)
+[![Build Status](https://img.shields.io/docker/build/stschulte/docker-mkdocs.svg)](https://hub.docker.com/r/stschulte/docker-mkdocs/builds)
+
+
 This repository aims to build a docker container with
 [mkdocs](http://www.mkdocs.org) and
 [mkdocs-materials](https://squidfunk.github.io/mkdocs-material/)
